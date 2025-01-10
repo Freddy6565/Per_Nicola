@@ -1,0 +1,45 @@
+/*body{background-color :red;
+margin:0px;}
+
+div{background-color:blue;
+  /*max-width: 500px;*/
+  /*min-width:600px;*/
+  color:white;
+/*width :50%;
+min-width: 600px*/
+/*width:900px;*/
+/*margin:10px;
+font-family: Papyrus,fantasy; 
+}
+p{ font-family:Arial, Helvetica, sans-serif ;*/
+
+/*font-family: 'Times New Roman', serif;
+
+}
+div+div {background-color:yellowgreen;}*/
+
+
+html {
+  background-color:red;
+}
+ 
+body {
+  background-color: lightblue;
+  margin: 0;
+}
+ 
+div {
+  margin-bottom: 20px;
+}
+ 
+div:first-of-type {
+  background-color: salmon;
+}
+ 
+div + div {
+  background-color: springgreen;
+}
+ 
+div p {
+  margin: 0;
+}
